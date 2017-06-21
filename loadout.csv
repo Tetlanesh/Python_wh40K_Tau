@@ -1,0 +1,81 @@
+SH_KEY,GEAR,SYSTEM,WEAPONS,SHOTS,RS,ShRR,S,D,RD,AP,HIT_MOD,AutoHit,Melta
+1,plasma,Only Guns,3,1,0,0,6,1,0,3,0,0,0
+1,plasma (rapid),Only Guns,3,2,0,0,6,1,0,3,0,0,0
+1,missile,Only Guns,3,2,0,0,7,3,1,1,0,0,0
+1,flamer,Only Guns,3,6,1,0,4,1,0,0,0,1,0
+1,burst,Only Guns,3,4,0,0,5,1,0,0,0,0,0
+1,AFP,Only Guns,3,6,1,0,4,1,0,0,0,0,0
+1,Cyclic,Only Guns,3,3,0,0,7,1,0,1,0,0,0
+1,Cyclic (overcharge),Only Guns,3,3,1,0,8,3,1,1,0,0,0
+1,Fusion,Only Guns,3,1,0,0,8,6,1,4,0,0,0 
+1,Fusion (melta),Only Guns,3,1,0,0,8,6,1,4,0,0,1
+2,plasma,Only Guns,4,1,0,0,6,1,0,3,0,0,0
+2,plasma (rapid),Only Guns,4,2,0,0,6,1,0,3,0,0,0
+2,missile,Only Guns,4,2,0,0,7,3,1,1,0,0,0
+2,flamer,Only Guns,4,6,1,0,4,1,0,0,0,1,0
+2,burst,Only Guns,4,4,0,0,5,1,0,0,0,0,0
+2,AFP,Only Guns,4,6,1,0,4,1,0,0,0,0,0
+2,Cyclic,Only Guns,4,3,0,0,7,1,0,1,0,0,0
+2,Cyclic (overcharge),Only Guns,4,3,1,0,8,3,1,1,0,0,0
+2,Fusion,Only Guns,4,1,0,0,8,6,1,4,0,0,0 
+2,Fusion (melta),Only Guns,4,1,0,0,8,6,1,4,0,0,1
+1,plasma,ATS,2,1,0,0,6,1,0,4,0,0,0
+1,plasma (rapid),ATS,2,2,0,0,6,1,0,4,0,0,0
+1,missile,ATS,2,2,0,0,7,3,1,2,0,0,0
+1,flamer,ATS,2,6,1,0,4,1,0,1,0,1,0
+1,burst,ATS,2,4,0,0,5,1,0,1,0,0,0
+1,AFP,ATS,2,6,1,0,4,1,0,1,0,0,0
+1,Cyclic,ATS,2,3,0,0,7,1,0,2,0,0,0
+1,Cyclic (overcharge),ATS,2,3,1,0,8,3,1,2,0,0,0
+1,Fusion,ATS,2,1,0,0,8,6,1,5,0,0,0 
+1,Fusion (melta),ATS,2,1,0,0,8,6,1,5,0,0,1
+2,plasma,ATS,3,1,0,0,6,1,0,4,0,0,0
+2,plasma (rapid),ATS,3,2,0,0,6,1,0,4,0,0,0
+2,missile,ATS,3,2,0,0,7,3,1,2,0,0,0
+2,flamer,ATS,3,6,1,0,4,1,0,1,0,1,0
+2,burst,ATS,3,4,0,0,5,1,0,1,0,0,0
+2,AFP,ATS,3,6,1,0,4,1,0,1,0,0,0
+2,Cyclic,ATS,3,3,0,0,7,1,0,2,0,0,0
+2,Cyclic (overcharge),ATS,3,3,1,0,8,3,1,2,0,0,0
+2,Fusion,ATS,3,1,0,0,8,6,1,5,0,0,0 
+2,Fusion (melta),ATS,3,1,0,0,8,6,1,5,0,0,1
+1,plasma,MT,2,1,0,1,6,1,0,3,0,0,0
+1,plasma (rapid),MT,2,2,0,1,6,1,0,3,0,0,0
+1,missile,MT,2,2,0,1,7,3,1,1,0,0,0
+1,flamer,MT,2,6,1,1,4,1,0,0,0,1,0
+1,burst,MT,2,4,0,1,5,1,0,0,0,0,0
+1,AFP,MT,2,6,1,1,4,1,0,0,0,0,0
+1,Cyclic,MT,2,3,0,1,7,1,0,1,0,0,0
+1,Cyclic (overcharge),MT,2,3,1,1,8,3,1,1,0,0,0
+1,Fusion,MT,2,1,0,1,8,6,1,4,0,0,0 
+1,Fusion (melta),MT,2,1,0,1,8,6,1,4,0,0,1
+2,plasma,MT,3,1,0,1,6,1,0,3,0,0,0
+2,plasma (rapid),MT,3,2,0,1,6,1,0,3,0,0,0
+2,missile,MT,3,2,0,1,7,3,1,1,0,0,0
+2,flamer,MT,3,6,1,1,4,1,0,0,0,1,0
+2,burst,MT,3,4,0,1,5,1,0,0,0,0,0
+2,AFP,MT,3,6,1,1,4,1,0,0,0,0,0
+2,Cyclic,MT,3,3,0,1,7,1,0,1,0,0,0
+2,Cyclic (overcharge),MT,3,3,1,1,8,3,1,1,0,0,0
+2,Fusion,MT,3,1,0,1,8,6,1,4,0,0,0 
+2,Fusion (melta),MT,3,1,0,1,8,6,1,4,0,0,1
+1,plasma,MT+ATS,1,1,0,1,6,1,0,4,0,0,0
+1,plasma (rapid),MT+ATS,1,2,0,1,6,1,0,4,0,0,0
+1,missile,MT+ATS,1,2,0,1,7,3,1,2,0,0,0
+1,flamer,MT+ATS,1,6,1,1,4,1,0,1,0,1,0
+1,burst,MT+ATS,1,4,0,1,5,1,0,1,0,0,0
+1,AFP,MT+ATS,1,6,1,1,4,1,0,1,0,0,0
+1,Cyclic,MT+ATS,1,3,0,1,7,1,0,2,0,0,0
+1,Cyclic (overcharge),MT+ATS,1,3,1,1,8,3,1,2,0,0,0
+1,Fusion,MT+ATS,1,1,0,1,8,6,1,5,0,0,0 
+1,Fusion (melta),MT+ATS,1,1,0,1,8,6,1,5,0,0,1
+2,plasma,MT+ATS,2,1,0,1,6,1,0,4,0,0,0
+2,plasma (rapid),MT+ATS,2,2,0,1,6,1,0,4,0,0,0
+2,missile,MT+ATS,2,2,0,1,7,3,1,2,0,0,0
+2,flamer,MT+ATS,2,6,1,1,4,1,0,1,0,1,0
+2,burst,MT+ATS,2,4,0,1,5,1,0,1,0,0,0
+2,AFP,MT+ATS,2,6,1,1,4,1,0,1,0,0,0
+2,Cyclic,MT+ATS,2,3,0,1,7,1,0,2,0,0,0
+2,Cyclic (overcharge),MT+ATS,2,3,1,1,8,3,1,2,0,0,0
+2,Fusion,MT+ATS,2,1,0,1,8,6,1,5,0,0,0 
+2,Fusion (melta),MT+ATS,2,1,0,1,8,6,1,5,0,0,1
